@@ -2,7 +2,7 @@
 
 > An OWL ontology for Automated Guided Vehicle management in underground mining sites, built with Protégé.
 
-**Degree:** Master's Degree, Robotics Engineering
+**Degree:** Master's Degree, Robotics Engineering   
 **Course:** Artificial Intelligence — Università degli Studi di Genova (DIBRIS)  
 **Authors:** Joel Topulli, Stefania Germena  
 **Academic Year:** 2025/2026
